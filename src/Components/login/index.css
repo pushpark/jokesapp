@@ -1,0 +1,8 @@
+.background{
+    min-height: 100vh;
+}
+.login-text{
+    color:rgb(75, 75, 207);
+    font-family: Roboto;
+    font-weight: bold;
+}
